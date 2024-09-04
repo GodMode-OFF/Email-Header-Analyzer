@@ -1,0 +1,8 @@
+Message ID: <0102dsaxzacax8-acd7f19e-3f2a-43aa-8b56-7cb85fbec988-000000@eu-west-1.lol.com>
+Created on: 2 September 2024 at 00:51 (Delivered after 0 seconds)
+From: UNiDAYS <no-reply@myunidays.com>
+To: yourmain@gmail.com
+Subject: Action Required: Complete Your Account
+SPF: PASS with IP 192.168.200.2 Learn more
+DKIM: 'PASS' with domain myunidays.com Learn more
+DMARC: 'PASS' Learn more
